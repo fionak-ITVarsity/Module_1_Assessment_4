@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    background-color: lightgreen;
+    text-align:center;
+}
+th{
+    background-color: lightgreen;
+    font-family: sans-serif;
+}
+td{
+    background-color: white;
+}
+td{
+    font-family: sans-serif;
+}
+img {
+  border: 5px solid #555;
+  border-bottom-color: lightgreen;
+  border-right-color:lightgreen;
+  border-left-color: lightgreen;
+  border-top-color: lightgreen;
+}
+h1{
+    font-family: sans-serif;
+}
